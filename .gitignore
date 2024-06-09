@@ -12,7 +12,6 @@ utils/evaluation/audioldm_eval/ckpt/*
 *.json
 *.txt
 *.wav
-*.png
 *.csv
 **/wandb
 youtube_wav/
