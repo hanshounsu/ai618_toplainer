@@ -112,7 +112,7 @@ adding_noise: True # True or False
 noise_std: 0.01
 
 # Test Run Configuration
-wandb: True
+wandb: False
 test_run: False
 # test_run_iter: 100
 # test_device: [2]

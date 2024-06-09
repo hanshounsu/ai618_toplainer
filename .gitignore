@@ -3,6 +3,7 @@ save/groundtruth/mackenzie_norm/vocal/evaluation/*
 save/groundtruth/mackenzie_norm/vocal/test/*
 save/groundtruth/mackenzie_norm/vocal/train/*
 save/**/*.txt
+save/**/*.png
 utils/evaluation/phoneme_informed_note_level_singing_transcription/checkpoints/*
 utils/evaluation/audioldm_eval/ckpt/*
 **/__pycache__/

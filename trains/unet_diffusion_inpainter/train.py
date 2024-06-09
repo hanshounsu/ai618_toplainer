@@ -31,7 +31,8 @@ def main():
     # prepare checkpoint path and log groundtruth on wandb
     if not config.test_run:
         prepare_checkpoint_path(config)
-        logger.log_gt_spec(config)
+        if config.wandb:
+            logger.log_gt_spec(config)
     if config.test_run:
         config.add('save_iter', 6)
 
