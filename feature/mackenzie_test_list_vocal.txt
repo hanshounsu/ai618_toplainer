@@ -1,0 +1,179 @@
+./segments/mackenzie/vocal/Tenerife Sea (So In Love) - Ed Sheeran Cover [RGtLWCuSulo]_0.wav
+./segments/mackenzie/vocal/The Archer - Taylor Swift Cover [DTm15AN_-5s]_0.wav
+./segments/mackenzie/vocal/The Archer - Taylor Swift Cover [DTm15AN_-5s]_1.wav
+./segments/mackenzie/vocal/The Archer - Taylor Swift Cover [DTm15AN_-5s]_2.wav
+./segments/mackenzie/vocal/The Archer - Taylor Swift Cover [DTm15AN_-5s]_3.wav
+./segments/mackenzie/vocal/The Archer - Taylor Swift Cover [DTm15AN_-5s]_4.wav
+./segments/mackenzie/vocal/The One That Got Away - Katy Perry Cover [Urbrf1qcGUU]_0.wav
+./segments/mackenzie/vocal/The One That Got Away - Katy Perry Cover [Urbrf1qcGUU]_1.wav
+./segments/mackenzie/vocal/The One That Got Away - Katy Perry Cover [Urbrf1qcGUU]_10.wav
+./segments/mackenzie/vocal/The One That Got Away - Katy Perry Cover [Urbrf1qcGUU]_11.wav
+./segments/mackenzie/vocal/The One That Got Away - Katy Perry Cover [Urbrf1qcGUU]_12.wav
+./segments/mackenzie/vocal/The One That Got Away - Katy Perry Cover [Urbrf1qcGUU]_13.wav
+./segments/mackenzie/vocal/The One That Got Away - Katy Perry Cover [Urbrf1qcGUU]_2.wav
+./segments/mackenzie/vocal/The One That Got Away - Katy Perry Cover [Urbrf1qcGUU]_3.wav
+./segments/mackenzie/vocal/The One That Got Away - Katy Perry Cover [Urbrf1qcGUU]_4.wav
+./segments/mackenzie/vocal/The One That Got Away - Katy Perry Cover [Urbrf1qcGUU]_5.wav
+./segments/mackenzie/vocal/The One That Got Away - Katy Perry Cover [Urbrf1qcGUU]_6.wav
+./segments/mackenzie/vocal/The One That Got Away - Katy Perry Cover [Urbrf1qcGUU]_7.wav
+./segments/mackenzie/vocal/The One That Got Away - Katy Perry Cover [Urbrf1qcGUU]_8.wav
+./segments/mackenzie/vocal/The One That Got Away - Katy Perry Cover [Urbrf1qcGUU]_9.wav
+./segments/mackenzie/vocal/Thinking Out Loud - Ed Sheeran Cover [67emI5FWE10]_0.wav
+./segments/mackenzie/vocal/Thinking Out Loud - Ed Sheeran Cover [67emI5FWE10]_1.wav
+./segments/mackenzie/vocal/Thinking Out Loud - Ed Sheeran Cover [67emI5FWE10]_2.wav
+./segments/mackenzie/vocal/This Time - John Legend Cover [DHLP9Lk-jQ4]_0.wav
+./segments/mackenzie/vocal/This Time - John Legend Cover [DHLP9Lk-jQ4]_1.wav
+./segments/mackenzie/vocal/This Time - John Legend Cover [DHLP9Lk-jQ4]_2.wav
+./segments/mackenzie/vocal/This Time - John Legend Cover [DHLP9Lk-jQ4]_3.wav
+./segments/mackenzie/vocal/This Time - John Legend Cover [DHLP9Lk-jQ4]_4.wav
+./segments/mackenzie/vocal/Times Like These - Foo Fighters Cover [5MQWqJzi7LM]_0.wav
+./segments/mackenzie/vocal/Times Like These - Foo Fighters Cover [5MQWqJzi7LM]_1.wav
+./segments/mackenzie/vocal/Times Like These - Foo Fighters Cover [5MQWqJzi7LM]_2.wav
+./segments/mackenzie/vocal/Times Like These - Foo Fighters Cover [5MQWqJzi7LM]_3.wav
+./segments/mackenzie/vocal/Too Good At Goodbyes - Sam Smith Cover [SZrmL_dfM8o]_0.wav
+./segments/mackenzie/vocal/Too Good At Goodbyes - Sam Smith Cover [SZrmL_dfM8o]_1.wav
+./segments/mackenzie/vocal/Too Good At Goodbyes - Sam Smith Cover [SZrmL_dfM8o]_2.wav
+./segments/mackenzie/vocal/Too Good At Goodbyes - Sam Smith Cover [SZrmL_dfM8o]_3.wav
+./segments/mackenzie/vocal/Too Good At Goodbyes - Sam Smith Cover [SZrmL_dfM8o]_4.wav
+./segments/mackenzie/vocal/Too Good At Goodbyes - Sam Smith Cover [SZrmL_dfM8o]_5.wav
+./segments/mackenzie/vocal/Truth Hurts - Lizzo Cover [xUpo54U-Pqo]_0.wav
+./segments/mackenzie/vocal/Truth Hurts - Lizzo Cover [xUpo54U-Pqo]_1.wav
+./segments/mackenzie/vocal/Truth Hurts - Lizzo Cover [xUpo54U-Pqo]_2.wav
+./segments/mackenzie/vocal/Truth Hurts - Lizzo Cover [xUpo54U-Pqo]_3.wav
+./segments/mackenzie/vocal/Truth Hurts - Lizzo Cover [xUpo54U-Pqo]_4.wav
+./segments/mackenzie/vocal/Truth Hurts - Lizzo Cover [xUpo54U-Pqo]_5.wav
+./segments/mackenzie/vocal/Truth Hurts - Lizzo Cover [xUpo54U-Pqo]_6.wav
+./segments/mackenzie/vocal/Two Ghosts - Harry Styles Cover [mpWUkRQoYm4]_0.wav
+./segments/mackenzie/vocal/Two Ghosts - Harry Styles Cover [mpWUkRQoYm4]_1.wav
+./segments/mackenzie/vocal/Two Ghosts - Harry Styles Cover [mpWUkRQoYm4]_10.wav
+./segments/mackenzie/vocal/Two Ghosts - Harry Styles Cover [mpWUkRQoYm4]_2.wav
+./segments/mackenzie/vocal/Two Ghosts - Harry Styles Cover [mpWUkRQoYm4]_3.wav
+./segments/mackenzie/vocal/Two Ghosts - Harry Styles Cover [mpWUkRQoYm4]_4.wav
+./segments/mackenzie/vocal/Two Ghosts - Harry Styles Cover [mpWUkRQoYm4]_5.wav
+./segments/mackenzie/vocal/Two Ghosts - Harry Styles Cover [mpWUkRQoYm4]_6.wav
+./segments/mackenzie/vocal/Two Ghosts - Harry Styles Cover [mpWUkRQoYm4]_7.wav
+./segments/mackenzie/vocal/Two Ghosts - Harry Styles Cover [mpWUkRQoYm4]_8.wav
+./segments/mackenzie/vocal/Two Ghosts - Harry Styles Cover [mpWUkRQoYm4]_9.wav
+./segments/mackenzie/vocal/Uh Huh - Julia Michaels Cover [4XfUNbG52TQ]_0.wav
+./segments/mackenzie/vocal/Uh Huh - Julia Michaels Cover [4XfUNbG52TQ]_1.wav
+./segments/mackenzie/vocal/Uh Huh - Julia Michaels Cover [4XfUNbG52TQ]_2.wav
+./segments/mackenzie/vocal/Uh Huh - Julia Michaels Cover [4XfUNbG52TQ]_3.wav
+./segments/mackenzie/vocal/Ultimate Pop Medley! [gTziWaeMYgM]_0.wav
+./segments/mackenzie/vocal/Ultimate Pop Medley! [gTziWaeMYgM]_1.wav
+./segments/mackenzie/vocal/Ultimate Pop Medley! [gTziWaeMYgM]_10.wav
+./segments/mackenzie/vocal/Ultimate Pop Medley! [gTziWaeMYgM]_2.wav
+./segments/mackenzie/vocal/Ultimate Pop Medley! [gTziWaeMYgM]_3.wav
+./segments/mackenzie/vocal/Ultimate Pop Medley! [gTziWaeMYgM]_4.wav
+./segments/mackenzie/vocal/Ultimate Pop Medley! [gTziWaeMYgM]_5.wav
+./segments/mackenzie/vocal/Ultimate Pop Medley! [gTziWaeMYgM]_6.wav
+./segments/mackenzie/vocal/Ultimate Pop Medley! [gTziWaeMYgM]_7.wav
+./segments/mackenzie/vocal/Ultimate Pop Medley! [gTziWaeMYgM]_8.wav
+./segments/mackenzie/vocal/Ultimate Pop Medley! [gTziWaeMYgM]_9.wav
+./segments/mackenzie/vocal/Unbreakable Smile - Tori Kelly Cover [-uUImqDx2Cc]_0.wav
+./segments/mackenzie/vocal/Valentine - Kina Grannis Cover [DThnfGNUzMo]_0.wav
+./segments/mackenzie/vocal/Valentine - Kina Grannis Cover [DThnfGNUzMo]_1.wav
+./segments/mackenzie/vocal/Valentine - Kina Grannis Cover [DThnfGNUzMo]_2.wav
+./segments/mackenzie/vocal/Valentine - Kina Grannis Cover [DThnfGNUzMo]_3.wav
+./segments/mackenzie/vocal/Valentine - Kina Grannis Cover [DThnfGNUzMo]_4.wav
+./segments/mackenzie/vocal/Valentine - Kina Grannis Cover [DThnfGNUzMo]_5.wav
+./segments/mackenzie/vocal/Valentine - Kina Grannis Cover [DThnfGNUzMo]_6.wav
+./segments/mackenzie/vocal/Valentine - Kina Grannis Cover [DThnfGNUzMo]_7.wav
+./segments/mackenzie/vocal/Valentine - Kina Grannis Cover [DThnfGNUzMo]_8.wav
+./segments/mackenzie/vocal/Valentine - Kina Grannis Cover [DThnfGNUzMo]_9.wav
+./segments/mackenzie/vocal/Vienna - Billy Joel Cover [LDS2ll9XEFA]_0.wav
+./segments/mackenzie/vocal/Vienna - Billy Joel Cover [LDS2ll9XEFA]_1.wav
+./segments/mackenzie/vocal/Vienna - Billy Joel Cover [LDS2ll9XEFA]_2.wav
+./segments/mackenzie/vocal/Vienna - Billy Joel Cover [LDS2ll9XEFA]_3.wav
+./segments/mackenzie/vocal/Waterfalls - TLC Cover [pZkkb3jkm34]_0.wav
+./segments/mackenzie/vocal/Waterfalls - TLC Cover [pZkkb3jkm34]_1.wav
+./segments/mackenzie/vocal/Waterfalls - TLC Cover [pZkkb3jkm34]_2.wav
+./segments/mackenzie/vocal/Waterfalls - TLC Cover [pZkkb3jkm34]_3.wav
+./segments/mackenzie/vocal/Waterfalls - TLC Cover [pZkkb3jkm34]_4.wav
+./segments/mackenzie/vocal/Waterfalls - TLC Cover [pZkkb3jkm34]_5.wav
+./segments/mackenzie/vocal/Waterfalls - TLC Cover [pZkkb3jkm34]_6.wav
+./segments/mackenzie/vocal/Waterfalls - TLC Cover [pZkkb3jkm34]_7.wav
+./segments/mackenzie/vocal/Waterfalls - TLC Cover [pZkkb3jkm34]_8.wav
+./segments/mackenzie/vocal/Waterfalls - TLC Cover [pZkkb3jkm34]_9.wav
+./segments/mackenzie/vocal/We Are Never Ever Getting Back Together - Taylor Swift Cover [ea4tgW3gshM]_0.wav
+./segments/mackenzie/vocal/We Are Never Ever Getting Back Together - Taylor Swift Cover [ea4tgW3gshM]_1.wav
+./segments/mackenzie/vocal/We Are Never Ever Getting Back Together - Taylor Swift Cover [ea4tgW3gshM]_2.wav
+./segments/mackenzie/vocal/We Are Never Ever Getting Back Together - Taylor Swift Cover [ea4tgW3gshM]_3.wav
+./segments/mackenzie/vocal/We Are Never Ever Getting Back Together - Taylor Swift Cover [ea4tgW3gshM]_4.wav
+./segments/mackenzie/vocal/We Are Never Ever Getting Back Together - Taylor Swift Cover [ea4tgW3gshM]_5.wav
+./segments/mackenzie/vocal/We Are Never Ever Getting Back Together - Taylor Swift Cover [ea4tgW3gshM]_6.wav
+./segments/mackenzie/vocal/We Are Never Ever Getting Back Together - Taylor Swift Cover [ea4tgW3gshM]_7.wav
+./segments/mackenzie/vocal/What About Us - P!nk Cover [sWAkCG9rAsQ]_0.wav
+./segments/mackenzie/vocal/What About Us - P!nk Cover [sWAkCG9rAsQ]_1.wav
+./segments/mackenzie/vocal/What About Us - P!nk Cover [sWAkCG9rAsQ]_10.wav
+./segments/mackenzie/vocal/What About Us - P!nk Cover [sWAkCG9rAsQ]_11.wav
+./segments/mackenzie/vocal/What About Us - P!nk Cover [sWAkCG9rAsQ]_12.wav
+./segments/mackenzie/vocal/What About Us - P!nk Cover [sWAkCG9rAsQ]_13.wav
+./segments/mackenzie/vocal/What About Us - P!nk Cover [sWAkCG9rAsQ]_14.wav
+./segments/mackenzie/vocal/What About Us - P!nk Cover [sWAkCG9rAsQ]_15.wav
+./segments/mackenzie/vocal/What About Us - P!nk Cover [sWAkCG9rAsQ]_16.wav
+./segments/mackenzie/vocal/What About Us - P!nk Cover [sWAkCG9rAsQ]_17.wav
+./segments/mackenzie/vocal/What About Us - P!nk Cover [sWAkCG9rAsQ]_18.wav
+./segments/mackenzie/vocal/What About Us - P!nk Cover [sWAkCG9rAsQ]_19.wav
+./segments/mackenzie/vocal/What About Us - P!nk Cover [sWAkCG9rAsQ]_2.wav
+./segments/mackenzie/vocal/What About Us - P!nk Cover [sWAkCG9rAsQ]_20.wav
+./segments/mackenzie/vocal/What About Us - P!nk Cover [sWAkCG9rAsQ]_3.wav
+./segments/mackenzie/vocal/What About Us - P!nk Cover [sWAkCG9rAsQ]_4.wav
+./segments/mackenzie/vocal/What About Us - P!nk Cover [sWAkCG9rAsQ]_5.wav
+./segments/mackenzie/vocal/What About Us - P!nk Cover [sWAkCG9rAsQ]_6.wav
+./segments/mackenzie/vocal/What About Us - P!nk Cover [sWAkCG9rAsQ]_7.wav
+./segments/mackenzie/vocal/What About Us - P!nk Cover [sWAkCG9rAsQ]_8.wav
+./segments/mackenzie/vocal/What About Us - P!nk Cover [sWAkCG9rAsQ]_9.wav
+./segments/mackenzie/vocal/What Are You Doing New Year's Eve？ [AvPwD7Y5LAo]_0.wav
+./segments/mackenzie/vocal/What Do You Mean？ - Justin Bieber Cover [OO5sf67Cm2I]_0.wav
+./segments/mackenzie/vocal/What Do You Mean？ - Justin Bieber Cover [OO5sf67Cm2I]_1.wav
+./segments/mackenzie/vocal/What Do You Mean？ - Justin Bieber Cover [OO5sf67Cm2I]_2.wav
+./segments/mackenzie/vocal/What Do You Mean？ - Justin Bieber Cover [OO5sf67Cm2I]_3.wav
+./segments/mackenzie/vocal/What Do You Mean？ - Justin Bieber Cover [OO5sf67Cm2I]_4.wav
+./segments/mackenzie/vocal/What Do You Mean？ - Justin Bieber Cover [OO5sf67Cm2I]_5.wav
+./segments/mackenzie/vocal/What Do You Mean？ - Justin Bieber Cover [OO5sf67Cm2I]_6.wav
+./segments/mackenzie/vocal/What Do You Mean？ - Justin Bieber Cover [OO5sf67Cm2I]_7.wav
+./segments/mackenzie/vocal/When We Were Young - Adele Cover [ao7Et8ZqXfs]_0.wav
+./segments/mackenzie/vocal/When We Were Young - Adele Cover [ao7Et8ZqXfs]_1.wav
+./segments/mackenzie/vocal/When We Were Young - Adele Cover [ao7Et8ZqXfs]_2.wav
+./segments/mackenzie/vocal/When We Were Young - Adele Cover [ao7Et8ZqXfs]_3.wav
+./segments/mackenzie/vocal/When We Were Young - Adele Cover [ao7Et8ZqXfs]_4.wav
+./segments/mackenzie/vocal/When We Were Young - Adele Cover [ao7Et8ZqXfs]_5.wav
+./segments/mackenzie/vocal/When We Were Young - Adele Cover [ao7Et8ZqXfs]_6.wav
+./segments/mackenzie/vocal/When We Were Young - Adele Cover [ao7Et8ZqXfs]_7.wav
+./segments/mackenzie/vocal/When We Were Young - Adele Cover [ao7Et8ZqXfs]_8.wav
+./segments/mackenzie/vocal/Wherever Is Your Heart - Brandi Carlile Cover [H-fO8K3zrTs]_0.wav
+./segments/mackenzie/vocal/Wherever Is Your Heart - Brandi Carlile Cover [H-fO8K3zrTs]_1.wav
+./segments/mackenzie/vocal/Wherever Is Your Heart - Brandi Carlile Cover [H-fO8K3zrTs]_2.wav
+./segments/mackenzie/vocal/Wherever Is Your Heart - Brandi Carlile Cover [H-fO8K3zrTs]_3.wav
+./segments/mackenzie/vocal/Wherever Is Your Heart - Brandi Carlile Cover [H-fO8K3zrTs]_4.wav
+./segments/mackenzie/vocal/Wherever Is Your Heart - Brandi Carlile Cover [H-fO8K3zrTs]_5.wav
+./segments/mackenzie/vocal/Wherever Is Your Heart - Brandi Carlile Cover [H-fO8K3zrTs]_6.wav
+./segments/mackenzie/vocal/Wherever Is Your Heart - Brandi Carlile Cover [H-fO8K3zrTs]_7.wav
+./segments/mackenzie/vocal/Whoa Whoa Whoa - Watsky Cover [98DPwRw29pg]_0.wav
+./segments/mackenzie/vocal/Whoa Whoa Whoa - Watsky Cover [98DPwRw29pg]_1.wav
+./segments/mackenzie/vocal/Whoa Whoa Whoa - Watsky Cover [98DPwRw29pg]_2.wav
+./segments/mackenzie/vocal/Whoa Whoa Whoa - Watsky Cover [98DPwRw29pg]_3.wav
+./segments/mackenzie/vocal/Whoa Whoa Whoa - Watsky Cover [98DPwRw29pg]_4.wav
+./segments/mackenzie/vocal/Whoa Whoa Whoa - Watsky Cover [98DPwRw29pg]_5.wav
+./segments/mackenzie/vocal/You Already Know - Fergie Ft. Nicki Minaj Cover [v6GW2aozfZo]_0.wav
+./segments/mackenzie/vocal/You Already Know - Fergie Ft. Nicki Minaj Cover [v6GW2aozfZo]_1.wav
+./segments/mackenzie/vocal/You Already Know - Fergie Ft. Nicki Minaj Cover [v6GW2aozfZo]_2.wav
+./segments/mackenzie/vocal/You Already Know - Fergie Ft. Nicki Minaj Cover [v6GW2aozfZo]_3.wav
+./segments/mackenzie/vocal/You Already Know - Fergie Ft. Nicki Minaj Cover [v6GW2aozfZo]_4.wav
+./segments/mackenzie/vocal/You Already Know - Fergie Ft. Nicki Minaj Cover [v6GW2aozfZo]_5.wav
+./segments/mackenzie/vocal/You Already Know - Fergie Ft. Nicki Minaj Cover [v6GW2aozfZo]_6.wav
+./segments/mackenzie/vocal/You Already Know - Fergie Ft. Nicki Minaj Cover [v6GW2aozfZo]_7.wav
+./segments/mackenzie/vocal/You Already Know - Fergie Ft. Nicki Minaj Cover [v6GW2aozfZo]_8.wav
+./segments/mackenzie/vocal/You Are In Love - Taylor Swift Cover [q5mOOuIKeYc]_0.wav
+./segments/mackenzie/vocal/You Are In Love - Taylor Swift Cover [q5mOOuIKeYc]_1.wav
+./segments/mackenzie/vocal/You Are In Love - Taylor Swift Cover [q5mOOuIKeYc]_2.wav
+./segments/mackenzie/vocal/You Need Me, I Don't Need You - Ed Sheeran Cover [eYKwSs7d1O0]_0.wav
+./segments/mackenzie/vocal/You Need Me, I Don't Need You - Ed Sheeran Cover [eYKwSs7d1O0]_1.wav
+./segments/mackenzie/vocal/You Were Meant For Me - Jewel Cover [TVrlNZIuGxw]_0.wav
+./segments/mackenzie/vocal/You Were Meant For Me - Jewel Cover [TVrlNZIuGxw]_1.wav
+./segments/mackenzie/vocal/You Were Meant For Me - Jewel Cover [TVrlNZIuGxw]_2.wav
+./segments/mackenzie/vocal/Younger Now - Miley Cyrus Cover [exvOTXUzOOQ]_0.wav
+./segments/mackenzie/vocal/Younger Now - Miley Cyrus Cover [exvOTXUzOOQ]_1.wav
+./segments/mackenzie/vocal/Younger Now - Miley Cyrus Cover [exvOTXUzOOQ]_2.wav
+./segments/mackenzie/vocal/everything i wanted - Billie Eilish Cover [DLLBkkInnoo]_0.wav
+./segments/mackenzie/vocal/everything i wanted - Billie Eilish Cover [DLLBkkInnoo]_1.wav

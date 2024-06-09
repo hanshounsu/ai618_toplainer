@@ -2,6 +2,7 @@ save/checkpoints/inpainting/mackenzie_unet_diffusion_inpainter_audio/2024-05-31-
 save/groundtruth/mackenzie_norm/vocal/evaluation/*
 save/groundtruth/mackenzie_norm/vocal/test/*
 save/groundtruth/mackenzie_norm/vocal/train/*
+save/**/*.txt
 utils/evaluation/phoneme_informed_note_level_singing_transcription/checkpoints/*
 utils/evaluation/audioldm_eval/ckpt/*
 **/__pycache__/
@@ -10,7 +11,7 @@ utils/evaluation/audioldm_eval/ckpt/*
 *.pth
 *.ckpt
 *.json
-*.txt
+# *.txt
 *.wav
 *.csv
 **/wandb

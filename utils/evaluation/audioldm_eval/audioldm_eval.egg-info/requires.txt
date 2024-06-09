@@ -1,0 +1,9 @@
+torch>=1.11.0
+torchaudio
+scikit-image
+torchlibrosa
+absl-py
+scipy
+tqdm
+ssr_eval
+librosa
