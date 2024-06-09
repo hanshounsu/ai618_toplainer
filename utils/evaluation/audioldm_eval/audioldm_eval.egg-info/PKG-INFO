@@ -1,0 +1,116 @@
+Metadata-Version: 2.1
+Name: audioldm-eval
+Version: 0.0.1
+Summary: This package is written for the evaluation of audio generation model.
+Home-page: https://github.com/haoheliu/audioldm_eval
+Author: Haohe Liu
+Author-email: haoheliu@gmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.6.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+# Audio Generation Evaluation
+
+This toolbox aims to unify audio generation model evaluation for easier future comparison.
+
+## Quick Start
+
+First, prepare the environment
+```shell
+git clone git@github.com:haoheliu/audioldm_eval.git
+cd audioldm_eval
+pip install -e .
+```
+
+Second, generate test dataset by
+```shell
+python3 gen_test_file.py
+```
+
+Finally, perform a test run. A result for reference is attached [here](https://github.com/haoheliu/audioldm_eval/blob/main/example/paired_ref.json).
+```shell
+python3 test.py # Evaluate and save the json file to disk (example/paired.json)
+```
+
+## Evaluation metrics
+We have the following metrics in this toolbox: 
+
+- FD: Frechet distance, realized by PANNs, a state-of-the-art audio classification model
+- FAD: Frechet audio distance
+- ISc: Inception score
+- KID: Kernel inception score
+- KL: KL divergence (softmax over logits)
+- KL_Sigmoid: KL divergence (sigmoid over logits)
+- PSNR: Peak signal noise ratio
+- SSIM: Structural similarity index measure
+- LSD: Log-spectral distance
+
+The evaluation function will accept the paths of two folders as main parameters. 
+1. If two folder have **files with same name and same numbers of files**, the evaluation will run in **paired mode**.
+2. If two folder have **different numbers of files or files with different name**, the evaluation will run in **unpaired mode**.
+
+**These metrics will only be calculated in paried mode**: KL, KL_Sigmoid, PSNR, SSIM, LSD. 
+In the unpaired mode, these metrics will return minus one.
+
+
+## Evaluation on AudioCaps and AudioSet
+
+The AudioCaps test set consists of audio files with multiple text annotations. To evaluate the performance of AudioLDM, we randomly selected one annotation per audio file, which can be found in the [accompanying json file](example/AudioCaps/audiocaps_test_nonrepeat_subset_2.json).
+
+Given the size of the AudioSet evaluation set with approximately 20,000 audio files, it may be impractical for audio generative models to perform evaluation on the entire set. As a result, we randomly selected 2,000 audio files for evaluation, with the corresponding annotations available in a [json file](example/AudioSet/audioset_eval_data_subset.json).
+
+For more information on our evaluation process, please refer to [our paper](https://arxiv.org/abs/2301.12503).
+
+## Example
+
+```python
+import torch
+from utils.evaluation.audioldm_eval.audioldm_eval import EvaluationHelper
+
+# GPU acceleration is preferred
+device = torch.device(f"cuda:{0}")
+
+generation_result_path = "example/paired"
+target_audio_path = "example/reference"
+
+# Initialize a helper instance
+evaluator = EvaluationHelper(16000, device)
+
+# Perform evaluation, result will be print out and saved as json
+metrics = evaluator.main(
+    generation_result_path,
+    target_audio_path,
+    limit_num=None # If you only intend to evaluate X (int) pairs of data, set limit_num=X
+)
+```
+
+## TODO
+
+- [ ] Add pretrained AudioLDM model.
+- [ ] Add CLAP score
+
+## Cite this repo
+
+If you found this tool useful, please consider citing
+```bibtex
+@article{liu2023audioldm,
+  title={AudioLDM: Text-to-Audio Generation with Latent Diffusion Models},
+  author={Liu, Haohe and Chen, Zehua and Yuan, Yi and Mei, Xinhao and Liu, Xubo and Mandic, Danilo and Wang, Wenwu and Plumbley, Mark D},
+  journal={arXiv preprint arXiv:2301.12503},
+  year={2023}
+}
+```
+
+## Reference
+
+> https://github.com/toshas/torch-fidelity
+
+> https://github.com/v-iashin/SpecVQGAN 

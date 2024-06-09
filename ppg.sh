@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES="3" python3 ppg.py --input_folder_path ./save/samples/inpainting/mackenzie_unet_diffusion_inpainter_audio/noise_True_inpainting_ratio_0.75/2024-05-31-11-27-56_MCG/39/200_1/vocal/
+CUDA_VISIBLE_DEVICES="3" python3 ppg.py --input_folder_path ./save/samples/inpainting/mackenzie_unet_diffusion_inpainter_audio/noise_True_inpainting_ratio_0.5/2024-05-31-11-27-56_MCG/39/200_1/vocal/

@@ -1,0 +1,151 @@
+model_name: 'unet_diffusion_inpainter'
+exp_name: 'audio'
+version: '0.0.0'
+singer: 'mackenzie'
+
+feature_path: './feature/inpainting'
+
+dataset_path: './segments/mackenzie_norm/guitar'
+
+split_type: 'all'
+
+checkpoint_path: './save/checkpoints/inpainting/'
+# checkpoint_date: '2023-05-05-14-06-04'  # Noise True
+# checkpoint_file: '80'
+# checkpoint_date: '2023-05-05-15-46-15' # Noise False
+# checkpoint_file: '81'
+checkpoint_date: '2024-05-31-11-27-56'
+checkpoint_file: '32'
+checkpoint_path_action: 'overwrite'
+top_k: 5
+sample_save_path: './save/samples/inpainting'
+
+device: 'cuda'
+
+# Log Configuration
+vis_second: 7.5
+
+# UNet Configuration
+in_channels: 2
+channels: 128
+patch_blocks: 4
+patch_factor: 2
+kernel_sizes_init: [1, 3, 7]
+multipliers: [1, 2, 4, 4, 4, 4, 4]
+factors: [4, 4, 4, 2, 2, 2]
+attentions: [False, False, False, True, True, True]
+num_blocks: [2, 2, 2, 2, 2, 2]
+attention_heads: 8
+attention_features: 64
+attention_multiplier: 2
+use_attention_bottleneck: True
+resnet_groups: 8
+kernel_multiplier_downsample: 2
+use_nearest_upsample: False
+use_skip_scale: True
+use_context_time: True
+
+# Diffusion Configuration
+sigma_dist_mean: -3.0
+sigma_dist_std: 1.0
+sigma_data: 0.1
+dynamic_threshold: 0.95
+
+# Diffusion Inpainter Configuration
+sampling_timesteps: 40
+sampling_method: "repaint" # repaint, MCG
+sigma_min: 0.0001
+sigma_max: 3.0
+rho_schedule: 9.0
+rho_sampler: 1.0
+# jump_steps: 40 # 구현 안되어있음.
+num_resamples: 5
+inpainting_ratio: 0.25 # L자 마스크의 (윗) 보컬 부분 마스크해서 예측하는 비율 (0.0~1.0)
+
+
+# Feature Configuration
+audio_length: 81920 # 추가
+
+
+residual_norm_eps: 1.0e-5
+
+conv1d_dropout: 0.1
+attention_dropout: 0.1 # FastSpeech: 0.1, TransformerTTS: 0.1
+mlp_dropout: 0.1
+film_dropout: 0.1
+
+sample_rate: 16000
+preemphasis: 1 #0.6
+deemphasis: 1 #1.3
+fft_size: 1024
+win_size: 640
+hop_size: 320
+mel_size: 128
+#spec_size: 513
+downsample_ratio: 1
+
+norm_type: "hawthorne"
+# # mel할 때
+# mel_fmin: null
+# mel_fmax: null
+# clip_type: '2'
+# clip_value_min: 1.0e-6 # ln 씌우면 -13.8
+# clip_value_max: 1.0e+3 # ln 씌우면 6.91
+
+midi_envelope_encoding: False
+
+
+gradient_accumulate_every: 2
+train_lr: 1.0e-4
+ema_update_every: 10
+ema_decay: 0.995
+adam_betas: [0.9, 0.99]
+
+
+# Accelerator Configuration (not used)
+amp: False # for lucidrain/denoising-diffusion-pytorch, setting this True leads to nan loss error. 
+fp16: False
+split_batches: True
+
+
+# Optimizer Configuration
+clip_max_norm: 1
+
+# Noise Configuration
+adding_noise: True # True or False
+noise_std: 0.01
+
+# Test Run Configuration
+wandb: True
+test_run: False
+# test_run_iter: 100
+# test_device: [2]
+# test_device: 'cuda'
+test_list: False # if false, do test for entire test list
+# test_list:
+#   - ['test','Times Like These - Foo Fighters Cover [5MQWqJzi7LM]_1']
+#   - ['test','Truth Hurts - Lizzo Cover [xUpo54U-Pqo]_5']
+#   - ['test','Two Ghosts - Harry Styles Cover [mpWUkRQoYm4]_4']
+#   - ['test','Valentine - Kina Grannis Cover [DThnfGNUzMo]_5']
+#   - ['test','What Do You Mean？ - Justin Bieber Cover [OO5sf67Cm2I]_5']
+#   - ['test','When We Were Young - Adele Cover [ao7Et8ZqXfs]_4']
+#   - ['test','Wherever Is Your Heart - Brandi Carlile Cover [H-fO8K3zrTs]_3']
+
+
+# Train Configuration
+batch_size: 128
+save_iter: 5000 # 90000
+# eval_iter: 10000
+stop_iter: 500000
+init_alpha: 1
+
+
+# Infer Configuration
+execute_time: True
+vocoder: "soundstream"
+n_iter: 200
+
+
+# Process
+num_proc_preprocess: 4
+num_proc_train : 0
