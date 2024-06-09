@@ -76,7 +76,6 @@ def logGImg(y_axis_name, gen, file_name, step, config, type):
     plt.clf()
 
 
-
 def log_gt_spec(config):
     print('Logging groundtruth on wandb')
     if config.test_list is not None and len(config.test_list) > 0:

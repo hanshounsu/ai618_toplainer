@@ -10,7 +10,7 @@ from config_init import config_initialize
 from termcolor import colored
 import logger
 import wandb
-from audio_diffusion_pytorch_gct731.audio_diffusion_pytorch import UNet1d, Diffusion, LogNormalDistribution, DiffusionInpainter, KarrasSchedule, ADPM2Sampler
+from audio_diffusion_pytorch_ai618.audio_diffusion_pytorch import UNet1d, Diffusion, LogNormalDistribution, DiffusionInpainter, KarrasSchedule, ADPM2Sampler
 
 def main():
     config = ConfigXT()
@@ -25,7 +25,7 @@ def main():
     # wandb settings
     if config.wandb==False:
         os.environ['WANDB_MODE']='offline'
-    wandb.init(project=f'gct731', name=f'Cont_{config.model_name}_{config.exp_name}-{date}', config=config.__dict__)
+    wandb.init(project=f'ai618', name=f'Cont_{config.model_name}_{config.exp_name}-{date}', config=config.__dict__)
 
     # prepare checkpoint path and log groundtruth on wandb
     if not config.test_run:
