@@ -1,8 +1,7 @@
 # AI618 Project - AI Topliner (ToplAIner)
 * This is a project repository for 2024 Spring AI618 course
 
-<img src="png/mask.png">
-<img src="png/task.png">
+<img src="png/figure.png" height="200">
 
 ## Requirements
   * Install python 3
@@ -34,22 +33,17 @@
 * A diagonal alignment appeared after about 15k steps. The attention plots below are at 160k steps. Plots represent the multihead attention of all layers. In this experiment, h=4 is used for three attention layers. Therefore, 12 attention plots were drawn for each of the encoder, decoder and encoder-decoder. With the exception of the decoder, only a few multiheads showed diagonal alignment.
 
 ### Self Attention encoder
-<img src="png/attention_encoder.gif" height="200">
-
-### Self Attention decoder
-<img src="png/attention_decoder.gif" height="200">
 
 ### Attention encoder-decoder
-<img src="png/attention.gif" height="200">
 
 ## Learning curves & Alphas
 * I used Noam style warmup and decay as same as [Tacotron](https://github.com/Kyubyong/tacotron)
 
-<img src="png/training_loss.png">
+<!-- <img src="png/training_loss.png"> -->
 
 * The alpha value for the scaled position encoding is different from the thesis. In the paper, the alpha value of the encoder is increased to 4, whereas in the present experiment, it slightly increased at the beginning and then decreased continuously. The decoder alpha has steadily decreased since the beginning.
 
-<img src="png/alphas.png">
+<!-- <img src="png/alphas.png"> -->
 
 ## Experimental notes
 1. **The learning rate is an important parameter for training.** With initial learning rate of 0.001 and exponentially decaying doesn't work.
