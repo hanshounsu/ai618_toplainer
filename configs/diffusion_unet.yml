@@ -11,7 +11,7 @@ split_type: 'all'
 
 checkpoint_path: './save/checkpoints/inpainting/'
 checkpoint_date: '2024-05-31-11-27-56'
-checkpoint_file: '32'
+checkpoint_file: '39'
 checkpoint_path_action: 'overwrite'
 top_k: 5
 sample_save_path: './save/samples/inpainting'

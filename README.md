@@ -44,5 +44,3 @@ python3 infers/unet_diffusion_inpainter/infer_checkpoint.py
 
 ## Reference
   * seyong92 : https://github.com/seyong92/phoneme-informed-note-level-singing-transcription
-  * Kyubyong Park: https://github.com/Kyubyong/dc_tts
-  * jadore801120: https://github.com/jadore801120/attention-is-all-you-need-pytorch/
