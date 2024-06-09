@@ -22,7 +22,7 @@
 * download segments also [here](https://drive.google.com/drive/folders/1-Co1OMLdwCXzcD74nRKG-ExWWpfdZe_Q?usp=share_link)
 * segment folder should be placed at the project directory as segments/mackenzie_norm/vocal/
 * download groundtruth also [here](https://drive.google.com/drive/folders/1t4Elo6Gf2X4e9qP3cgXMlnbIG4QsQjXg?usp=share_link)
-* segment folder should be placed at the project directory as segments/mackenzie_norm/vocal/
+* segment folder should be placed at the project directory as save/groundtruth/mackenzie_norm/vocal/
 
 ## Pretrained ToplAIner model
 * download pretrained ToplAIner model [here](https://drive.google.com/file/d/1-7bj5UP2gtV3bQppHDW4BDzk01xK_EtO/view?usp=share_link)
