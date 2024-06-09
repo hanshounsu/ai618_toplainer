@@ -35,8 +35,8 @@ cd utils/evaluation
 git clone https://github.com/seyong92/phoneme-informed-note-level-singing-transcription.git
 mv phoneme-informed-note-level-singing-transcription phoneme_informed_note_level_singing_transcription
 ```
-* checkpoint can be obtained [here](https://github.com/seyong92/phoneme-informed-note-level-singing-transcription)
-* Locate the pretrained model at utils/evaluation/phoneme_informed_note_level_singing_transcription/checkpoints/ directory
+<!-- * checkpoint can be obtained [here](https://github.com/seyong92/phoneme-informed-note-level-singing-transcription)
+* Locate the pretrained model at utils/evaluation/phoneme_informed_note_level_singing_transcription/checkpoints/ directory -->
 
 ## Training the network
 * Train the network based on configurations inside configs/diffusion_unet.yml
